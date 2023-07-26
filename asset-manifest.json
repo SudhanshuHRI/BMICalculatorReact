@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/BMICalculatorReact%20%20/static/css/main.0419fbba.css",
-    "main.js": "/BMICalculatorReact%20%20/static/js/main.e8fa86f9.js",
-    "index.html": "/BMICalculatorReact%20%20/index.html",
-    "main.0419fbba.css.map": "/BMICalculatorReact%20%20/static/css/main.0419fbba.css.map",
-    "main.e8fa86f9.js.map": "/BMICalculatorReact%20%20/static/js/main.e8fa86f9.js.map"
+    "main.css": "/BMICalculatorReact/static/css/main.0419fbba.css",
+    "main.js": "/BMICalculatorReact/static/js/main.e8fa86f9.js",
+    "index.html": "/BMICalculatorReact/index.html",
+    "main.0419fbba.css.map": "/BMICalculatorReact/static/css/main.0419fbba.css.map",
+    "main.e8fa86f9.js.map": "/BMICalculatorReact/static/js/main.e8fa86f9.js.map"
   },
   "entrypoints": [
     "static/css/main.0419fbba.css",
